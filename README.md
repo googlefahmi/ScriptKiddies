@@ -1,5 +1,5 @@
 # ScriptKiddies
-This script will help you automate basic work like bulk ping and telnet using bash script
+This script will help you automate basic work like bulk ping and telnet to multiple hosts using bash script
 
 ## Do not forget to give permission chmod 755 to these script
 
