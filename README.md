@@ -20,7 +20,7 @@ Version : 1.0 | Stable<br />
 
 ### Example Usage
 <blockquote> ./telnet-me.sh (Filename) (Port) </blockquote>
-<blockquote> ./telnet-me.sh (Filename) (Port) </blockquote>
+<blockquote> ./telnet-me.sh (IP) (Port) </blockquote>
 
 ## Example list
 filename : test1.txt
