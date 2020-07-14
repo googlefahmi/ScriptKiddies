@@ -11,16 +11,16 @@ Info    : Use this script to check server target accessible or not<br />
 Version : 1.0 | Stable<br />
 
 ### Example Usage
-<blockquote> ./ping-me.sh (Filename) </blockquote>
-<blockquote> ./ping-me.sh (IP) </blockquote>
+<blockquote> ./ping-me.sh test1.txt </blockquote>
+<blockquote> ./ping-me.sh 192.168.0.1 </blockquote>
 
 ## Automate Telnet to another server<br />
 Info    : Use this script to check server port target accessible or not<br />
 Version : 1.0 | Stable<br />
 
 ### Example Usage
-<blockquote> ./telnet-me.sh (Filename) (Port) </blockquote>
-<blockquote> ./telnet-me.sh (IP) (Port) </blockquote>
+<blockquote> ./telnet-me.sh test1.txt 80 </blockquote>
+<blockquote> ./telnet-me.sh 192.168.0.1 80 </blockquote>
 
 ## Example list
 filename : test1.txt
