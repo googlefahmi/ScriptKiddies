@@ -9,12 +9,18 @@ This script will help you automate basic work like bulk ping and telnet using ba
 ## Automate ping to another server<br />
 Info    : Use this script to check server target accessible or not<br />
 Version : 1.0 | Stable<br />
-<blockquote> Usage : ping-me.sh (Filename) / ping-me.sh (IP) </blockquote>
+
+### Example Usage
+<blockquote> ./ping-me.sh (Filename) </blockquote>
+<blockquote> ./ping-me.sh (IP) </blockquote>
 
 ## Automate Telnet to another server<br />
 Info    : Use this script to check server port target accessible or not<br />
 Version : 1.0 | Stable<br />
-<blockquote> Usage : telnet-me.sh (Filename) (Port) / telnet-me.sh (Filename) (Port) </blockquote>
+
+### Example Usage
+<blockquote> ./telnet-me.sh (Filename) (Port) </blockquote>
+<blockquote> ./telnet-me.sh (Filename) (Port) </blockquote>
 
 ## Example list
 filename : test1.txt
