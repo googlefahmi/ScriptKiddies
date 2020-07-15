@@ -1,7 +1,7 @@
 # ScriptKiddies
-This script will help you automate basic work like bulk ping and telnet to multiple servers using bash script
+This script will help you automate basic work to bulk ping and telnet to multiple servers using bash script
 
-## Do not forget to give permission chmod 755 to these script
+## Do not forget to give runnable permission to scripts
 
 <blockquote> chmod +x ping-me.sh </blockquote>
 <blockquote> chmod +x telnet-me.sh </blockquote>
